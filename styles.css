@@ -15,7 +15,6 @@ body {
     display: flex;
     height: 100vh;
     width: 100vw;
-  
 }
 .img-header::before{
     content: url("img/background2.jpeg");
